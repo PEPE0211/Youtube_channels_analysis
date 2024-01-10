@@ -1,6 +1,5 @@
 # YouTube Channel Analysis
 
-![YouTube Channel Analysis](https://github.com/your-username/youtube-channel-analysis/raw/main/assets/logo.png)
 
 ## Introduction
 
